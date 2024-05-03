@@ -1,0 +1,4 @@
+header {
+  padding: var(--title-padding);
+  font-size: var(--medium-text);
+}
