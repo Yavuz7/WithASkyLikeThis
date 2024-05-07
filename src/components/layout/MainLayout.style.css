@@ -1,0 +1,16 @@
+footer {
+  padding: var(--title-padding);
+}
+header {
+  padding: var(--title-padding);
+  font-size: var(--medium-text);
+}
+
+.mainLayout {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
